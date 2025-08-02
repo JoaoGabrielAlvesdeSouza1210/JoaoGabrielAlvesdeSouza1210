@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Na faculdade tive projetos em react js, php, c e python. Atualmente trabalho com vue js, tailwind e leravel.
+  🦄 Linguagens: Na faculdade tive projetos em react js, php, c e python. Atualmente trabalho com vue js, tailwind e laravel.
 </p>
 
 <p align="left">
